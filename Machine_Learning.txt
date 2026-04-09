@@ -57,13 +57,7 @@ Muito usado em jogos e robótica.
 ✅ Resumo:
 Machine learning é uma técnica que permite que computadores aprendam com dados e melhorem suas previsões ou decisões ao longo do tempo.
 
-💡 Se quiser, posso também te mostrar:
-
-a diferença entre IA, Machine Learning e Deep Learning, ou
-
-como começar a estudar machine learning do zero.
-
-atue como um professor e explique machine learning usando analogia em 2 parágrafos 
+A diferença entre IA, Machine Learning e Deep Learning, ou como começar a estudar machine learning do zero.
 
 Imagine ensinar uma criança a reconhecer maçãs. Você não dá uma fórmula matemática para ela; em vez disso, mostra várias frutas e diz: “isso é uma maçã”, “isso não é uma maçã”. Com o tempo, a criança começa a perceber padrões — cor, formato, textura — e consegue identificar uma nova maçã sozinha. Machine Learning funciona de forma muito parecida: em vez de programar todas as regras possíveis, fornecemos muitos exemplos (dados), e o computador aprende os padrões para tomar decisões ou fazer previsões.
 
